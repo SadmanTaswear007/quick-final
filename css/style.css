@@ -1,0 +1,158 @@
+body{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #0f2656;
+}
+header{
+	padding: 15px 0;
+	border-bottom:3px solid #eeeeee;
+}
+.container{
+	margin: 0 auto;
+	width: 93%;
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	width: 10%;
+}
+.logo img{
+	width: 100%;
+}
+.menu{
+	float: right;
+	width: 55%;
+}
+.menu ul{
+float: right;
+}
+.menu ul li {
+list-style: none;
+float: left;
+}
+.menu ul li a {
+text-decoration: none;
+padding:2px 20px;
+display: block;
+color: #0f2656;
+transition: .35s;
+
+}
+.menu ul li:last-child a {
+	padding-right: 0;
+}
+.menu ul li a:hover {
+	color: #0c66ff;
+}
+.banner {
+padding: 70px 0;
+}
+.container2 {
+width: 50%;
+margin: 0 auto;
+text-align: center;
+overflow: hidden;
+}
+
+.b_h2 {
+font-size: 60px;
+font-weight: 700px;
+line-height: 75px;
+margin: 0;
+}
+.b_h2 span {
+	color: #0c66ff;
+}
+.b_p {
+line-height: 25px;
+margin: 10px 0 15px;
+}
+.b_img {
+width: 80%;
+margin: 0 auto;
+}
+.b_img img {
+width: 100%;
+}
+.feature {
+padding-bottom: 70px;
+}
+.f_left {
+	padding-bottom: 70px;
+width: 48%;
+float: left;
+text-align: right;
+}
+.f_left h2 {
+	margin: 0;
+	font-size: 45px;
+	font-weight: 700;
+	color: #f15767;
+
+}
+.f_left p {
+line-height: 25px;
+margin: 13px 0 0;
+}
+.f_right {
+width: 48%;
+float: right;
+text-align: left;
+}
+.f_right h1 {
+font-size: 40px;
+font-weight: 700;
+margin: 0;
+}
+.service{
+	padding-bottom: 70px;
+
+}
+.s_service{
+margin-right: 2%;
+float: left;
+width: 32%;
+padding: 50px 20px 60px;
+box-sizing: border-box;
+}
+.s_service:first-child{
+background-color:#fdebed ;
+}
+.s_service:nth-child(2){
+background-color:#ebf9f4 ;
+}
+.s_service:last-child{
+	margin-right: 0;
+	background-color:#fff7e8 ;
+}
+.s_img{
+
+}
+.s_img img{
+width: 100%;
+}
+.s_h2{
+margin: 20px 0;
+font-size: 24px;
+font-weight: 700;
+}
+.s_p{
+margin: 0;
+line-height: 25px;
+font-size: 20px;
+}
+footer{
+padding: 40px;
+background-color: #0c66ff
+}
+footer p {
+	margin: 0;
+	text-align: center;
+	color: white;
+}
+footer p a {
+	font-weight: 700;
+color: white;
+text-decoration: none;
+}

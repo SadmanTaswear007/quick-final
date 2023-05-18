@@ -1,0 +1,14 @@
+sky #0c66ff
+navy #0f2656
+red #f15767
+
+
+pink #fdebed
+green #ebf9f4
+yrllow #fff7e8
+
+
+
+<footer class="footer">
+	@ Copyright by <span>L E D P  S H E R P U R . Allright Reserved 2020
+</footer>
